@@ -2,19 +2,14 @@
 
 <img align="center"
   src="https://github.com/user-attachments/assets/97430b85-f438-478e-8f73-759ef91e2809">
-<h3 align="center">An information technology student at Udayana University</h3>
+<h3 align="center">Software Engineer and IT student at Udayana University</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satriayudha03&label=Profile%20views&color=0e75b6&style=flat" alt="satriayudha03" /> </p>
 
-- 🌱 I’m currently learning **Laravel and Javascript**
+- 🌱 I’m currently learning React
 
 - 📫 How to reach me **satriayuda2017@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/satria-yudha-73a050286/](https://www.linkedin.com/in/satria-yudha-73a050286/)
-
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/satria yudha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satria yudha" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -42,6 +37,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
 ###
