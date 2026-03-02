@@ -5,39 +5,38 @@
 <h3 align="center">Software Engineer and IT student at Udayana University</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satriayudha03&label=Profile%20views&color=0e75b6&style=flat" alt="satriayudha03" /> </p>
 
-- 🌱 I’m currently learning React
-
-- 📫 How to reach me **satriayuda2017@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/satria-yudha-73a050286/](https://www.linkedin.com/in/satria-yudha-73a050286/)
+<div align="left">
+  <a href="satriayuda2017@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/satria-yudha-73a050286/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ## 🛠 Tech Stack
 
-## 📌 Programming Languages
-
-| C | C++ | Java | Python | PHP | JavaScript | TypeScript | Dart |
-|---|-----|------|--------|-----|------------|------------|------|
-| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36"/></p> |
-
-
----
-
-## 📌 Frameworks & Libraries
-
-| Laravel | React | Next.js | Flutter | Express.js | Hapi.js | FastAPI |
-|--------|-------|---------|---------|------------|---------|---------|
-| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.simpleicons.org/hapi/F05032" height="28" style="background:#ffffff;padding:4px;border-radius:6px"/></p> | <p align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" height="36"/></p> |
-
-
----
-
-## 📌 Tools & Platforms
-
-| MySQL | MongoDB | Supabase | Postman | Figma |
-|------|---------|----------|---------|-------|
-| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36"/></p> | <p align="center"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="36"/></p> | <p align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="36"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36"/></p> |
-
----
+<div align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
+</div>
 
 ###
 
@@ -46,7 +45,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satriayudha03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=satriayudha03&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satriayudha03&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&bg_color=black" height="300" alt="activity-graph graph"  />
 </div>
