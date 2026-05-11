@@ -5,9 +5,6 @@
 <h3 align="center">Software Engineer and IT student at Udayana University</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satriayudha03&label=Profile%20views&color=0e75b6&style=flat" alt="satriayudha03" /> </p>
 
-<div align="left">
-  <a href="satriayuda2017@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/satria-yudha-73a050286/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
