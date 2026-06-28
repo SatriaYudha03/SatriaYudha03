@@ -2,7 +2,7 @@
 
 <img align="center"
   src="https://github.com/user-attachments/assets/97430b85-f438-478e-8f73-759ef91e2809">
-<h3 align="center">Software Engineer and IT student at Udayana University</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satriayudha03&label=Profile%20views&color=0e75b6&style=flat" alt="satriayudha03" /> </p>
 
   </a>
