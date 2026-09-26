@@ -26,8 +26,6 @@
 role:     Software Engineer
 next:     Catfish Farmer
 workflow: I think, Claude types
-review:   yes, I read the diff
-bug:      "You're absolutely right!"
 ```
 
 ### 🛠 Tech Stack
